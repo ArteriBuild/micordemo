@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+micor.agriculture.gov.au	TRUE	/live-animals	FALSE	1999999999	SearchSession	004253c0%2Dee64%2D449b%2D9364%2Da823d4a53569
+
