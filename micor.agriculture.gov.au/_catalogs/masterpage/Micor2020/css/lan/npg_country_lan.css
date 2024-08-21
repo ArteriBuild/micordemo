@@ -1,0 +1,35 @@
+/* Copyright (c) 2016 - 2023 Australian Government **************************
+'*  Name:        la_country_lan.css
+'*  Description: Global style library.
+'*  Email:       wilson.wampers@gmail.com
+'*****************************************************************************
+'*  Modification History:
+'*  -When           -Who            -Bug#           -What
+'*  --------------------------------------------------------------------------
+'*	-31-Aug-2022    -Wilson Wampers -               -Initial Version
+'*****************************************************************************
+LM: ww.230601.1001_T16 */
+
+div#WHZ {
+    display: none !important;
+}
+
+div.dataTable {
+    position: absolute;
+    z-index: 1;
+    left: -9999px;
+    top: 120px;
+    display: none;
+}
+
+div.productSummaries {
+    margin-top: 32px;
+}
+
+div.productSummaries h2 {
+    font-size: 1.35rem !important;
+}
+
+div.productSummaries li {
+    margin-left: 10px;
+}
